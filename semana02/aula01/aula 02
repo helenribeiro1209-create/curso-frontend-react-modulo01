@@ -1,0 +1,14 @@
+//const numeroUm = 4568    // number
+//const numeroDois = 456 // string
+
+//console.log(numeroUm == numeroDois)  // compara conteúdo/ valor 
+//console.log(numeroUm === numeroDois)  // compara conteúdo/ valor e tipo da variavel 
+
+//console.log(numeroUm <= numeroDois)
+
+//console.log(numeroUm != numeroDois)
+
+//let exibirSenha = false
+
+//console.log(!exibirSenha)
+
