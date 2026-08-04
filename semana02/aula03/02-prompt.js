@@ -12,3 +12,6 @@ let idade = prompt("Qual a sua idade?")
 
 //console.log("Olá, " + nome + "! Ano que vem você fará " + (++idade) + " anos!")
 console.log("Olá, " + nome + "! Ano que vem você fará " + (Number(idade) + 1) + " anos!")
+
+
+
