@@ -1,0 +1,19 @@
+.highlight {
+  background-color: yellow;
+}
+
+.text-highlight {
+  color: blue;
+}
+
+#text-description {
+  color: crimson;
+}
+
+h1 {
+  color: aqua;
+}
+
+.list li {
+  background-color: goldenrod;
+}
