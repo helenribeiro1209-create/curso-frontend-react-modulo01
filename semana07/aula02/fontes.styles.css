@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&display=swap");
+
+.besley {
+  font-family: "Besley", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+body {
+  font-family: "Fira Code", Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  line-height: 1.2;
+  letter-spacing: 8px;
+  border: double red 12px;
+}
+
+#text-special {
+  letter-spacing: 2px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: right;
+}
+a {
+  text-decoration: none;
+}
